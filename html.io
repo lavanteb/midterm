@@ -3,7 +3,6 @@
   <head>
     <link rel="stylesheet" type="text/css" href="reset.css">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" href=
     <font size="12"
     color="red">Buzzfeed.News</font>
   </head>
