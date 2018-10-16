@@ -7,7 +7,7 @@
     color="red">Buzzfeed.News</font>
   </head>
   <body style="background-color:white;">
-    <img src="https://goo.gl/images/Qbu7UH">
+    <img src="https://www.google.com/search?q=buzzfeed+pics&client=safari&hl=en-us&prmd=nvi&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj0s8-RxoveAhUpuVkKHfUACGgQ_AUIEygD&biw=375&bih=597#imgrc=Mr6rEWHghGh9JM">
     <font size="12"
     color="red"><p>COMMUNITY
     </p>
