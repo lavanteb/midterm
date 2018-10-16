@@ -6,8 +6,6 @@
     <font size="12"
     color="red">Buzzfeed.News</font>
   </head>
-  <img src="https://goo.gl/images/Ugcy1P">
-  <img src="https://goo.gl/images/yzHRbL">
   <body style="background-color:white;">
     <font size="12"
     color="red"><p>COMMUNITY
@@ -19,3 +17,4 @@
     <Li>Celebrities</Li>
     <Li>Music</Li>
   </html>
+  <img src="https://goo.gl/images/Ugcy1P">
